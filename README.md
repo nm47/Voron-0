@@ -1,4 +1,4 @@
-# Voron Zero
+# Voron 0.585
 
 ![Image of Voron Zero](http://vorondesign.com/images/voron0.1_bg.jpg)
 
